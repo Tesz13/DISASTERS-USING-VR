@@ -44,20 +44,24 @@ Designed with **Virtual Reality (VR)** in mind, it demonstrates how procedural w
   <summary>🗂️ View Repository Structure</summary>
 
 ```text
+## 🗂️ Repository Structure
+
+```text
 📁 Project-Disasters
 │
-├── hip/
-│   └── Project-Disasters.hipnc
-│
-├── docs/
+├── docs/                      # Documentation, reports, presentations, etc.
 │   ├── VR-project.pdf
 │   ├── VR-Project-Presentation.pptx
 │   └── Project-Disasters.zip
 │
-├── renders/
-│   └── finals/
-│       └── preview.png
+├── finals/                    # Rendered outputs and final media files
+│   └── preview.png
 │
-└── README.md
+├── hip.zip                    # Compressed Houdini project file (HIPNC + assets)
+│
+├── README.md                  # Main project overview and documentation
+│
+└── setup.md                   # Houdini setup and beginner installation guide
+
 
 
