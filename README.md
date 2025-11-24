@@ -39,10 +39,10 @@ Designed with **Virtual Reality (VR)** in mind, it demonstrates how procedural w
 
 ---
 
-```markdown
+
 <details>
   <summary>🗂️ View Repository Structure</summary>
-
+```markdown
 ```text
 ## 🗂️ Repository Structure
 
