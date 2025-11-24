@@ -42,9 +42,7 @@ Designed with **Virtual Reality (VR)** in mind, it demonstrates how procedural w
 
 <details>
   <summary>🗂️ View Repository Structure</summary>
-```markdown
-```text
-## 🗂️ Repository Structure
+
 
 ```text
 📁 Project-Disasters
